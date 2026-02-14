@@ -10,8 +10,7 @@ This repository contains a modern React application powered by Vite for fast dev
 
 ## 🚀 Live Demo
 
-👉 https://tagmango-assignment-zeta.vercel.app/  
-*(Update this link if you have deployed elsewhere)*
+👉 https://tagmango-assignment-1dpt.vercel.app
 
 ## 🧩 Features
 
@@ -73,10 +72,6 @@ yarn lint
 (Add testing instructions if you add tests later)
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
-
-## Deployed Version
-
-- https://tagmango-assignment-1dpt.vercel.app
 
 ## License
 
