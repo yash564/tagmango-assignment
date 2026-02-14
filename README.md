@@ -1,16 +1,83 @@
-# React + Vite
+# Tagmango Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A frontend assignment built with **React** and **Vite** for the Tagmango project.
 
-Currently, two official plugins are available:
+This project was bootstrapped using the Vite React template and serves as the foundation for building UI components and application logic required for the assignment.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 About
 
-## React Compiler
+This repository contains a modern React application powered by Vite for fast development and optimized build performance. It includes Tailwind CSS and ESLint configuration for a smooth developer experience.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+👉 https://tagmango-assignment-zeta.vercel.app/  
+*(Update this link if you have deployed elsewhere)*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧩 Features
+
+- ⚛️ Built with React (latest version)
+- 🚀 Fast development with Vite
+- 💅 Tailwind CSS for utility-first styling
+- 🔍 ESLint to maintain clean and consistent code
+- 📁 Organized project structure
+
+## 📦 Tech Stack
+
+- **React** — UI library
+- **Vite** — Development server & build tooling
+- **Tailwind CSS** — Utility-first styling
+- **ESLint** — Code linting
+- **JavaScript / TypeScript Ready**
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v16+ recommended)
+- npm or yarn
+
+### Installation
+
+```bash
+npm install
+# or
+yarn install
+```
+
+### Running the App
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+### Preview the Production Build Locally:
+
+```bash
+npm run preview
+# or
+yarn preview
+```
+
+### Linting:
+
+```bash
+npm run lint
+# or
+yarn lint
+```
+
+### Tests:
+
+(Add testing instructions if you add tests later)
+
+Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+## Deployed Version
+
+- https://tagmango-assignment-1dpt.vercel.app
+
+## License
+
+MIT
